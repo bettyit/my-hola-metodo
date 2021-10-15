@@ -8,7 +8,7 @@ app = Flask(__name__)
 @app.route('/')
 def hola():
 	
-    return jsonify({"message":"Mi hola en Python --  %s" % mynombre.nombres()})
+    return jsonify({"message":"Mi hola en Python23 --  %s" % mynombre.nombres()})
 
 
 if __name__ == "__main__":
