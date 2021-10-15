@@ -1,4 +1,4 @@
 # mynombre.py
 def nombres():
-    nombre = "betty"
+    nombre = "Betty Vazquez"
     return "%s" % (nombre)
